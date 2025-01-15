@@ -1,6 +1,6 @@
 def greet():
     print('Sagor Mahmud Opu')
-    print('Nusrat Jahan Ratu')
-    print('Anam Khan')
+    print('How are you')
+    print('I am fine')
     
 greet()
