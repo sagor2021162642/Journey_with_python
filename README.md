@@ -17,6 +17,6 @@ This repository documents my evolving Python skills through:
 - Practical implementations
 
 ## 📧 Contact
-Sagor Mahmud Opu
-E-mail: sagor.mahmud@northsouth.edu
-Phone: 01733034844
+-Sagor Mahmud Opu
+-E-mail: sagor.mahmud@northsouth.edu
+-Phone: 01733034844
