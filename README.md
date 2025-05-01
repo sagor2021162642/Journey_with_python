@@ -7,14 +7,6 @@ A progressive learning repository tracking my Python development journey from ba
 
 ## 📚 Table of Contents
 - [About](#-about)
-- [What's Inside](#-whats-inside)
-- [Installation](#-installation)
-- [Usage Examples](#-usage-examples)
-- [Contributing](#-contributing)
-- [Learning Path](#-learning-path)
-- [Roadmap](#-roadmap)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
 - [Contact](#-contact)
 
 ## 🌟 About
@@ -24,6 +16,7 @@ This repository documents my evolving Python skills through:
 - Data visualization projects
 - Practical implementations
 
-## 📂 What's Inside
-
-### 🧱 Fundamentals
+## 📧 Contact
+Sagor Mahmud Opu
+E-mail: sagor.mahmud@northsouth.edu
+Phone: 01733034844
